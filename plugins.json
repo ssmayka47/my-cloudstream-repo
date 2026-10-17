@@ -1,0 +1,220 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/StreamPlay.cs3",
+    "status": 1,
+    "version": 692,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": [
+      "Phisher98",
+      "Hexated"
+    ],
+    "description": "#1 best extention based on MultiAPI",
+    "fileSize": 2060358,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+    "apiVersion": 1,
+    "fileHash": "sha256-948eb8168439a49ba961586a95d25c539d7fcc9a5b0c15afc0a4bb99397a44c7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/AniKoto.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "AniKoto",
+    "internalName": "AniKoto",
+    "authors": [
+      "phisher98"
+    ],
+    "description": "AniKoto",
+    "fileSize": 81777,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d9e69451709aa0386b1c99148239bf8e32c827e5fc4d603ef71095c889719e20"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/AllWish.cs3",
+    "status": 1,
+    "version": 18,
+    "name": "AllWish",
+    "internalName": "AllWish",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Anime from all-wish.me",
+    "fileSize": 71993,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "All"
+    ],
+    "iconUrl": "https://all-wish.me/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8a23a86456abada48ff7cc7e9af6b5ae7e833accf19a56fe6001e18aab833d23"
+  },
+  {
+    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+    "fileHash": "sha256-fac67d1362a2ae4bf85f5dc1e51c1875c1b584214699f472826f0e070263ae0c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 48222,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 35,
+    "internalName": "Watch32",
+    "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/Watch32.cs3",
+    "name": "Watch32"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/Tuniflix.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Tuniflix",
+    "internalName": "Tuniflix",
+    "authors": [
+      "Abodabodd"
+    ],
+    "description": "",
+    "fileSize": 26298,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "language": "ar",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Drama"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
+    "apiVersion": 1,
+    "fileHash": "sha256-14a4553a97f20063f294bf38ab70317e54e496d94a4923ebad830dc966e63f88"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/Yacintv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Yacintv",
+    "internalName": "Yacintv",
+    "authors": [
+      "Abodabodd"
+    ],
+    "description": "",
+    "fileSize": 24443,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "language": "ar",
+    "tvTypes": [
+      "TvSeries",
+      "Live",
+      "Movie"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
+    "apiVersion": 1,
+    "fileHash": "sha256-440fb181a313ab67f7d420f4a657eb02dcd65a0aa75df28db4e3994b5ba72c1d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/Topcinema.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TopCinema",
+    "internalName": "Topcinema",
+    "authors": [
+      "Abodabodd"
+    ],
+    "description": "",
+    "fileSize": 30279,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "language": "ar",
+    "tvTypes": [
+      "Movie",
+      "tvTypes"
+    ],
+    "iconUrl": "https://web8.topcinema.cam/wp-content/uploads/2023/05/cropped-icon-32x32.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-13467ab2b8e20372b12939fe4fdfad83741ecc43a6451af54089b185d509fe12"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/Egydead.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Egydead",
+    "internalName": "Egydead",
+    "authors": [
+      "Abodabodd"
+    ],
+    "description": "",
+    "fileSize": 53726,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "language": "ar",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kgVTM6DJtx3tcS4gkPOOPnwFXKNhsrFyMRigWOlWomuQ=s900-c-k-c0x00ffffff-no-rj",
+    "apiVersion": 1,
+    "fileHash": "sha256-837684d369f62ef16deda7e23eb460eac3aae6b8f14183aef700bd203e9ccb3d"
+  },
+  {
+    "iconUrl": "https://img.utdstc.com/icon/dc7/59a/dc759aeb96e27c35acb29d74236106db8181ee6c6730c67002d710f1e54c2a1d:200",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mo7AmMeD64/cs-ar",
+    "fileSize": 92416,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "mo7AmMeD64"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 52,
+    "internalName": "MovieBoxProvider",
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/MovieBoxProvider.cs3",
+    "name": "MovieBox",
+    "fileHash": "sha256-7c517a8c4f92358b62278d8c3b0111b703da8334ef03d6e201ffbdf11de2e6be"
+  },
+  {
+    "iconUrl": "https://cima-cloud.com/images/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mo7AmMeD64/cs-ar",
+    "fileSize": 45258,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "mo7AmMeD64"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 2,
+    "internalName": "CimaCloud",
+    "url": "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins/CimaCloud.cs3",
+    "name": "Cima Cloud",
+    "fileHash": "sha256-fa9513048cbbbd571659efc8477fd06a5533fd4d9aea6a8cb5a1ce87f2fe01de"
+  }
+]

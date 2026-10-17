@@ -1,0 +1,8 @@
+{
+  "name": "My CloudStream Repo",
+  "description": "Personal curated extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ssmayka47/my-cloudstream-repo/main/plugins.json"
+  ]
+}
